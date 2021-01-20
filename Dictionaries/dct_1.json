@@ -1,0 +1,27 @@
+{
+    "profile_id": "1f5833f4e027e0a127f1161450370fa6370a8f5e",
+    "registry_location": "mx",
+    "full_name": "Juan Perez",
+    "document": [
+        {
+            "type": "work",
+            "address": {
+                "full_address": "Benito Juarez #35, colonia Arboledas, Queretaro, Santiago de Queretaro, Mexico CP. 76000",
+                "address_line_1": "Benito Juarez #35",
+                "address_line_2": "colonia Arboledas",
+                "city": "Nuevo Toledo",
+                "foad": "Toledo",
+                "soad": "",
+                "postal_code": "76000",
+                "country": "Mexico",
+                "phone": ["4420000001","4420000000"],
+                "fax": [],
+                "email": ["example@domain.mx"]
+            },
+            "number": "",
+            "description": ""
+        }
+      ],
+    "status": "",
+    "ad_hoc": []
+}

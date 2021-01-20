@@ -1,0 +1,27 @@
+{
+    "profile_id": "1f5833f4e027e0a127f116145037000000007531",
+    "registry_location": "mx",
+    "full_name": "Gerardo Gutiérrez Mendoza",
+    "document": [
+        {
+            "type": "work",
+            "address": {
+                "full_address": "Porvenir 214, Peñuelas, Queretaro, Santiago de Queretaro, Mexico CP. 76140",
+                "address_line_1": "",
+                "address_line_2": "",
+                "city": "",
+                "foad": "",
+                "soad": "",
+                "postal_code": "",
+                "country": "Mexico",
+                "phone": ["4420000001"],
+                "fax": [],
+                "email": ["example@domain.mx"]
+            },
+            "number": "",
+            "description": ""
+        }
+      ],
+    "status": "",
+    "ad_hoc": []
+}
